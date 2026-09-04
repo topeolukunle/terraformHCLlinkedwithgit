@@ -10,7 +10,3 @@ output "hello" {
   value = "HCP Terraform remote backend is working"
 }# updated
 # retry
-
-output "lab_version" {
-  value = "lab6-hcp-terraform"
-}
