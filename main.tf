@@ -10,3 +10,4 @@ output "hello" {
   value = "HCP Terraform remote backend is working"
 }# updated
 # retry
+# trigger new plan after adding AWS credentials
